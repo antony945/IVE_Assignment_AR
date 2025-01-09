@@ -2,4 +2,4 @@
 
 Repository for Intelligent Virtual Environments Assignment AR.
 
-Executable can be found in builds/ folder.
+APK file can be found in Builds/ folder.
